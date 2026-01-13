@@ -6,3 +6,4 @@ logistic regression
 KNN
 decision tree 
 SVM
+Also ill keep adding other algorithms coming as well while I explore more about supervised machine learning algorithms
